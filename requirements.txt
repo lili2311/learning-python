@@ -1,4 +1,6 @@
+sqlalchemy>=0.9.8
 aiofiles==0.8.0
+sqlalchemy>=0.8.4
 anyio==3.5.0
 asgiref==3.5.0
 async-generator==1.10
