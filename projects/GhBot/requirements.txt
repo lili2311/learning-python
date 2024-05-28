@@ -1,6 +1,7 @@
 bs4==0.0.1
-requests==2.25.1
+requests==2.32.0
 fastapi==0.75.1
 python-multipart==0.0.5
 uvicorn==0.17.6
 Flask==2.1.2
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
